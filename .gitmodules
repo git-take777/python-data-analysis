@@ -1,0 +1,3 @@
+[submodule "Udemy/python_data_analysis"]
+	path = Udemy/python_data_analysis
+	url = https://github.com/git-take777/python-data-analysis
