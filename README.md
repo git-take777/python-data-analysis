@@ -22,3 +22,4 @@ docker run -it \
 docker start -i python_data_analysis
 ```
 # python-data-analysis
+- Pandas, numpy, Matpliot,Seabornなどを学ぶ
